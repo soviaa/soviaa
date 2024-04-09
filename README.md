@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sovia Manandhar</h1>
 <h3 align="center">A passionate developer from Nepal</h3>
 
-- 🌱 I’m currently learning **node.js, MERN**
+- 🌱 I’m currently interning in ** Laravel** at ShotCoder Tech.
 
 - 📫 How to reach me **soviamdr@gmail.com**
 
