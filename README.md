@@ -1,5 +1,4 @@
 # Hi Developers!
-![](https://github-readme-streak-stats.herokuapp.com/?user=soviaa&theme=dark&hide_border=false)<br/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=soviaa)](https://git.io/streak-stats)
 
